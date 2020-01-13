@@ -1,16 +1,15 @@
 # Machine Learning Project
 [![image](https://img.shields.io/badge/Language-Python3.7.0-yellow)](https://www.python.org/downloads/release/python-370/) 
-![image](https://img.shields.io/badge/Library-Pytorch%201.3.1-orange) 
+[![image](https://img.shields.io/badge/Library-Pytorch%201.3.1-orange) ](https://pytorch.org/)
 [![image](https://img.shields.io/badge/Tool-Jupyter%20Notebook-red)](https://jupyter.org/)
 
 Machine learning focuses on the development of computer programs that can access data and use it learn for themselves.The primary aim is to allow the computers learn automatically without human intervention or assistance and adjust actions accordingly.
-   
 
 
-## ![image](https://user-images.githubusercontent.com/42762236/72217620-ddfbcf80-3573-11ea-81ee-99e554b80511.png) Introduction
+## :memo: Introduction
 It requires the mathmatical background related to Maching Learning and python skills in the development of applications for the visual recognition tasks. The development of applications are related to the visual recognition tasks in the deep neural network.
 
-## ![image](https://user-images.githubusercontent.com/42762236/72217967-8ad84b80-3578-11ea-8bc2-e8e63ca59cdd.png) Contents
+## :books: Contents
 - __Binary Classification based on Logistic Regression__
 ```
   Assignment 01.
