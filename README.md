@@ -1,5 +1,7 @@
 # Machine Learning Project
-[![image](https://user-images.githubusercontent.com/42762236/72217504-30d48780-3572-11ea-829f-d2f1987c614b.png)](https://www.python.org/downloads/release/python-370/) ![image](https://user-images.githubusercontent.com/42762236/72217545-d4be3300-3572-11ea-80c8-2850fea6d22f.png) ![image](https://user-images.githubusercontent.com/42762236/72217576-48604000-3573-11ea-8440-f393080a688c.png)
+[![image](https://user-images.githubusercontent.com/42762236/72217504-30d48780-3572-11ea-829f-d2f1987c614b.png)](https://www.python.org/downloads/release/python-370/) 
+![image](https://img.shields.io/badge/Library-Pytorch%201.3.1-orange) 
+![image](https://user-images.githubusercontent.com/42762236/72217576-48604000-3573-11ea-8440-f393080a688c.png)
 
 Machine learning focuses on the development of computer programs that can access data and use it learn for themselves.The primary aim is to allow the computers learn automatically without human intervention or assistance and adjust actions accordingly.
    
