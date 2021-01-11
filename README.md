@@ -24,25 +24,29 @@ Any library could be used in the deap neural projects. But the backward propagat
 
 ## :books: Contents
 - __Binary Classification based on Logistic Regression__
-```
-  Assignment 01.
-  Assignment 02.
-```
+
+  [Assignment 01.](https://github.com/Youngminah/MachineLearningProject/tree/Assignment01)
+  
+  [Assignment 02.](https://github.com/Youngminah/MachineLearningProject/tree/Assignment02)
+
 - __Binary classification based on 3 layers Neural Network__
-```
-  Assignment 03.
-  Assignment 04.
-  Assignment 05.
-  Assignment 06.
-```
+
+  [Assignment 03.](https://github.com/Youngminah/MachineLearningProject/tree/Assignment03)
+  
+  [Assignment 04.](https://github.com/Youngminah/MachineLearningProject/tree/Assignment04)
+  
+  [Assignment 05.](https://github.com/Youngminah/MachineLearningProject/tree/Assignment05)
+  
+  [Assignment 06.](https://github.com/Youngminah/MachineLearningProject/tree/Assignment06)
+
 - __Binary classification based on fully connected Neural Network__
-```
-  Assignment 07.
-```
+
+  [Assignment 07.](https://github.com/Youngminah/MachineLearningProject/tree/Assignment07)
+
 - __Image denoising problem based on convolutional Neural Network__
-```
-  Assignment 08.
-```
+
+  [Assignment 08.](https://github.com/Youngminah/MachineLearningProject/tree/Assignment08)
+
 
 
 ###  Jupyter Notebook
